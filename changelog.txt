@@ -1,0 +1,2 @@
+    "Correction du système de mise à jour",
+    "Amélioration de Weeegus Survival"
