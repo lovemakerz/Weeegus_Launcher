@@ -1,11 +1,11 @@
 {
-    "version": "1.146",
-    "minimum_version": "1.140",
-    "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/Weeegus_Launcher_Beta/Weeegus_v1.146.zip",
-    "mandatory": false,
-    "release_date": "2026-07-02",
-    "changelog": [
-        "Ajout du système de mise à jour",
-        "Préparation de l'Updater"
-    ]
+  "version": "1.147",
+  "minimum_version": "1.140",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.147/Weeegus_v1.147.zip",
+  "mandatory": false,
+  "release_date": "2026-07-02",
+  "sha256": "",
+  "changelog": [
+    "Version de test de la détection."
+  ]
 }
