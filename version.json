@@ -1,8 +1,11 @@
 {
-  "latest_version": "1.144",
-  "download_url": "https://github.com/...",
-  "changelog": [
-    "Correction du système de mise à jour",
-    "Amélioration de Weeegus Survival"
-  ]
+    "version": "1.144",
+    "minimum_version": "1.140",
+    "download_url": "",
+    "mandatory": false,
+    "release_date": "2026-07-02",
+    "changelog": [
+        "Ajout du système de mise à jour",
+        "Préparation de l'Updater"
+    ]
 }
