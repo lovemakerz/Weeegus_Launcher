@@ -1,2 +1,1 @@
-    "Correction du système de mise à jour",
-    "Amélioration de Weeegus Survival"
+Mise a jour Weeegus 1.145.
