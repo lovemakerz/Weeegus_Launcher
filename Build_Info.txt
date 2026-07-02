@@ -1,9 +1,13 @@
-Weeegus Launcher Build Info
+Weeegus Release Builder
+======================
 Version: 1.171
-Build date: 2026-07-02
-Package: Weeegus_v1.171.zip
-SHA256: ffcd965a14c065cbf393d6007258348949c044a6efedfa27fc30ad56ae9fc132
-CRC32: 9a660ede
-Size: 1430868 bytes
-PyInstaller mode: --onedir
-Release requirements: COMPLETE
+Date: 2026-07-02 19:46:25
+ZIP: Weeegus_v1.171.zip
+Download URL: https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.171/Weeegus_v1.171.zip
+Size: 41161390
+SHA256: 8aeae8370af3aed6d3aa49389d01e57e264898a7971472b51cc923b00d1d6d65
+CRC32: d83658b8
+Launcher: OK - Weeegus.exe
+Updater: OK - _internal/update/WeeegusUpdate.exe
+Release files: OK
+IMPORTANT: version.json / SHA256 / CRC32 calcules sur CE ZIP uniquement.

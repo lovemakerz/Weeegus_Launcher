@@ -1,15 +1,12 @@
 {
-  "version": "1.162",
+  "version": "1.171",
   "minimum_version": "1.134",
   "mandatory": false,
   "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.171/Weeegus_v1.171.zip",
   "release_date": "2026-07-02",
-  "sha256": "ffcd965a14c065cbf393d6007258348949c044a6efedfa27fc30ad56ae9fc132",
-  "size": 1430868,
+  "sha256": "8aeae8370af3aed6d3aa49389d01e57e264898a7971472b51cc923b00d1d6d65",
+  "size": 41161390,
   "changelog": [
-    "Sauvegardes : import/export complet de launcher_data.json, paramètres, jeux, favoris, catégories, couleurs, zoom, HP/Survival et géométrie.",
-    "Sauvegardes : cache complet inclus, plus artworks référencés hors cache pour rendre les sauvegardes portables.",
-    "Sauvegardes : import complet avec remplacement contrôlé, backup automatique des données actuelles et relocalisation des artworks vers le cache local.",
-    "Audio Survival inchangé depuis la correction fonctionnelle V1.167."
+    "Mise a jour Weeegus 1.171."
   ]
 }
