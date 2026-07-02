@@ -1,12 +1,12 @@
 {
-    "version":  "1.150",
-    "minimum_version":  "1.134",
-    "mandatory":  false,
-    "download_url":  "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.150/Weeegus_v1.150.zip",
-    "release_date":  "2026-07-02",
-    "sha256":  "82279e14437dec0b47131087bed9dbab3a85769e87da19bcd5a9f83cad7b4bfc",
-    "size":  40363499,
-    "changelog":  [
-                      "Mise a jour Weeegus 1.150."
-                  ]
+  "version": "1.162",
+  "minimum_version": "1.134",
+  "mandatory": false,
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.162/Weeegus_v1.162.zip",
+  "release_date": "2026-07-02",
+  "sha256": "",
+  "size": 0,
+  "changelog": [
+    "Fix onglets catégories et clone drag visuel."
+  ]
 }
