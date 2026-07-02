@@ -1,0 +1,9 @@
+Weeegus Launcher Build Info
+Version: 1.171
+Build date: 2026-07-02
+Package: Weeegus_v1.171.zip
+SHA256: ffcd965a14c065cbf393d6007258348949c044a6efedfa27fc30ad56ae9fc132
+CRC32: 9a660ede
+Size: 1430868 bytes
+PyInstaller mode: --onedir
+Release requirements: COMPLETE

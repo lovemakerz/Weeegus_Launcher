@@ -1,1 +1,6 @@
-Mise a jour Weeegus 1.150.
+Weeegus Launcher V1.171
+
+- Sauvegardes : import/export complet de launcher_data.json, paramètres, jeux, favoris, catégories, couleurs, zoom, HP/Survival et géométrie.
+- Sauvegardes : cache complet inclus, plus artworks référencés hors cache pour rendre les sauvegardes portables.
+- Sauvegardes : import complet avec remplacement contrôlé, backup automatique des données actuelles et relocalisation des artworks vers le cache local.
+- Audio Survival inchangé depuis la correction fonctionnelle V1.167.
