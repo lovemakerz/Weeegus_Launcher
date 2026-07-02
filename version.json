@@ -1,12 +1,15 @@
 {
-  "version": "1.162",
+  "version": "1.169",
   "minimum_version": "1.134",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.162/Weeegus_v1.162.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.169/Weeegus_v1.169.zip",
   "release_date": "2026-07-02",
-  "sha256": "",
-  "size": 0,
+  "sha256": "0f2d12c1a28118f6845e48de6fcc4ffb3fdfab6315a9fc6236ff65767ffcb10f",
+  "size": 1427992,
   "changelog": [
-    "Fix onglets catégories et clone drag visuel."
+    "À propos : logo Survival légèrement regrossi.",
+    "À propos : zone du logo Survival agrandie pour éviter tout rognage au zoom.",
+    "À propos : éléments sous le logo descendus et hauteur de fenêtre recompactée.",
+    "Audio Survival inchangé depuis la correction fonctionnelle V1.167."
   ]
 }
