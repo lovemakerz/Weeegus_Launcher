@@ -1,14 +1,15 @@
 {
-  "version": "1.162",
+  "version": "1.171",
   "minimum_version": "1.134",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.169/Weeegus_v1.169.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.171/Weeegus_v1.171.zip",
   "release_date": "2026-07-02",
-  "size": 1427992,
+  "sha256": "ffcd965a14c065cbf393d6007258348949c044a6efedfa27fc30ad56ae9fc132",
+  "size": 1430868,
   "changelog": [
-    "Optimisation du mode EasterEggs Survival",
-    "Ajout d'un son quelque part...",
-    "À propos remanié.",
-    "Update icone"
+    "Sauvegardes : import/export complet de launcher_data.json, paramètres, jeux, favoris, catégories, couleurs, zoom, HP/Survival et géométrie.",
+    "Sauvegardes : cache complet inclus, plus artworks référencés hors cache pour rendre les sauvegardes portables.",
+    "Sauvegardes : import complet avec remplacement contrôlé, backup automatique des données actuelles et relocalisation des artworks vers le cache local.",
+    "Audio Survival inchangé depuis la correction fonctionnelle V1.167."
   ]
 }
