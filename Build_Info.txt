@@ -1,12 +1,12 @@
 Weeegus Release Builder
 ======================
 Version: 1.220
-Date: 2026-07-03 14:53:46
+Date: 2026-07-03 15:04:47
 ZIP: Weeegus_v1.220.zip
 Download URL: https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.220/Weeegus_v1.220.zip
-Size: 41236643
-SHA256: f1fea25186c932086ea64ba8f511dbb732bbd053fef7e1d2483b9ffcb0ebe1b3
-CRC32: b521b298
+Size: 41234827
+SHA256: 1d999b6a1735cfeac4deb50e16cf8835feaf4044925920eb59f661f52a5a8694
+CRC32: caa8ac47
 Launcher: OK - Weeegus.exe
 Updater: OK - _internal/update/WeeegusUpdate.exe
 Release files: OK
