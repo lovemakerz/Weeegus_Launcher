@@ -1,12 +1,12 @@
 {
-  "version": "1.220",
+  "version": "1.221",
   "minimum_version": "1.134",
   "mandatory": false,
   "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.220/Weeegus_v1.220.zip",
   "release_date": "2026-07-03",
-  "sha256": "1d999b6a1735cfeac4deb50e16cf8835feaf4044925920eb59f661f52a5a8694",
-  "crc32": "caa8ac47",
-  "size": 41234827,
+  "sha256": "744df671a9d09cb332efe1d7bb96801bb13f5a95ee4819bb4980267454aca4d1",
+  "crc32": "c3dfbc60",
+  "size": 41238425,
   "changelog": [
     "Mise a jour Weeegus 1.220."
   ]
