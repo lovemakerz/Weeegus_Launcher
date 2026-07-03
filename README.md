@@ -4,9 +4,6 @@
 
 Built with a custom Canvas UI engine, Weeegus focuses on smooth navigation, polished visuals, fast interaction and a launcher experience that feels premium without being heavy.
 
-<p align="center">
-  <img src="Weeegus_Survival.png" alt="Weeegus Launcher Preview" width="900">
-</p>
 
 ---
 
