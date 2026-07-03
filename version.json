@@ -7,12 +7,12 @@
   "sha256": "ac970906ebdae85960e31713bafae9eb651a3716fc3db95d278638c19b54df26",
   "size": 41210126,
   "changelog": [
-    "Mise a jour Weeegus 1.209."
-    "Changement du moteur de rendu."
-    "Optimisation des effet de survol dans les jeux."
-    "Optimisation du defilement par molette et grab."
-    "Modification de l'affichage par canvas."
-    "Refonte complète de l'artworks manager."
+    "Mise a jour Weeegus 1.209.",
+    "Changement du moteur de rendu.",
+    "Optimisation des effet de survol dans les jeux.",
+    "Optimisation du defilement par molette et grab.",
+    "Modification de l'affichage par canvas.",
+    "Refonte complète de l'artworks manager.",
     "Optimisation de la recherche d'artworks par paliers."
   ]
 }
