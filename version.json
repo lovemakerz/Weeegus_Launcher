@@ -8,9 +8,6 @@
   "crc32": "b521b298",
   "size": 41236643,
   "changelog": [
-    "Mise a jour Weeegus 1.220.",
-    "Fin de migration du nouveau moteur.",
-    "Effet amelioré au survol des jeux.",
-    "Corrections diverses."
+    "Mise a jour Weeegus 1.220."
   ]
 }
