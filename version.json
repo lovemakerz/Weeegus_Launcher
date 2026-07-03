@@ -1,12 +1,18 @@
 {
-  "version": "1.174",
+  "version": "1.209",
   "minimum_version": "1.134",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.174/Weeegus_v1.174.zip",
-  "release_date": "2026-07-02",
-  "sha256": "e8cf33abd5c2d3d66fa2ef45f75faa86f555e42f210d1712b2a25b3f17ecf879",
-  "size": 41161919,
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.209/Weeegus_v1.209.zip",
+  "release_date": "2026-07-03",
+  "sha256": "ac970906ebdae85960e31713bafae9eb651a3716fc3db95d278638c19b54df26",
+  "size": 41210126,
   "changelog": [
-    "Mise a jour Weeegus 1.174."
+    "Mise a jour Weeegus 1.209."
+    "Changement du moteur de rendu."
+    "Optimisation des effet de survol dans les jeux."
+    "Optimisation du defilement par molette et grab."
+    "Modification de l'affichage par canvas."
+    "Refonte complète de l'artworks manager."
+    "Optimisation de la recherche d'artworks par paliers."
   ]
 }
