@@ -1,13 +1,16 @@
 {
-  "version": "1.100",
+  "version": "1.220",
   "minimum_version": "1.134",
   "mandatory": false,
   "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.220/Weeegus_v1.220.zip",
   "release_date": "2026-07-03",
-  "sha256": "e9ed78661af4b053ddf9a9cece0e255dcf1a20d0d08c8fb7da796baf59093cde",
-  "crc32": "f14c5b03",
-  "size": 41233836,
+  "sha256": "f1fea25186c932086ea64ba8f511dbb732bbd053fef7e1d2483b9ffcb0ebe1b3",
+  "crc32": "b521b298",
+  "size": 41236643,
   "changelog": [
-    "Mise a jour Weeegus 1.220."
+    "Mise a jour Weeegus 1.220.",
+    "Fin de migration du nouveau moteur.",
+    "Effet amelioré au survol des jeux.",
+    "Correction des "flashs" à l'ouverture de fenetres.",
   ]
 }
