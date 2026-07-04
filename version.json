@@ -1,13 +1,15 @@
 {
-  "version": "1.265",
+  "version": "1.266",
   "minimum_version": "1.174",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.265/Weeegus_v1.265.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.266/Weeegus_v1.266.zip",
   "release_date": "2026-07-04",
-  "sha256": "11ca3c5a992548c138076eab3ca875821b61fc0670ed8976fcfca56f0098b796",
-  "crc32": "a3b04dbd",
-  "size": 41350198,
+  "sha256": "1a23eb34d545d07feca263fd5d732601bb01ff426c70a92ede0faaf5ee543a84",
+  "crc32": "e6166eaa",
+  "size": 41350956,
   "changelog": [
-    "Paramètres : affichage plus confortable."
+    "Paramètres : correction du défilement à la molette de la zone droite, désormais fiable même au-dessus des cartes et widgets internes.",
+    "Paramètres : ajout du grab/drag vertical sur les zones passives de la partie droite pour naviguer comme dans le menu gauche.",
+    "Paramètres : amélioration du routage souris des panneaux scrollables pour éviter les pertes de focus entre widgets CTk imbriqués."
   ]
 }
