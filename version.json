@@ -1,23 +1,21 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.57",
+  "version": "0.4.58",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.57/Weeegus_v0.4.57.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.57",
-  "release_tag": "v0.4.57",
-  "asset_name": "Weeegus_v0.4.57.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.58/Weeegus_v0.4.58.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.58",
+  "release_tag": "v0.4.58",
+  "asset_name": "Weeegus_v0.4.58.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-11",
-  "sha256": "9f45c81ef03a1aa0b82756e591be3fb13bf8dc88e8e52da5538c41a2dcf931d0",
-  "crc32": "beef11de",
-  "size": 158738651,
+  "sha256": "d4fcf82e577cf6f2a31bb2aba65a3eca6516cb1a081509fdd345cefb089de9b2",
+  "crc32": "9809d1d1",
+  "size": 158738713,
   "changelog": [
-    "Le déplacement des catégories dans Paramètres > Catégories aligne maintenant correctement la carte flottante sous le curseur.",
-    "Le grab de réorganisation garde un point d’ancrage visuel cohérent pendant tout le drag, même sur les lignes compactes.",
-    "Le comportement premium du workspace stack et les contrôles automatiques de mise à jour sont conservés."
+    "Équilibrage Easter Egg 1."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.57.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.57/Weeegus_v0.4.57.zip.sha256"
+  "sha256_asset_name": "Weeegus_v0.4.58.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.58/Weeegus_v0.4.58.zip.sha256"
 }
