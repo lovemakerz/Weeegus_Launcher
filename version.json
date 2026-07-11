@@ -1,25 +1,24 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.55",
+  "version": "0.4.56",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.55/Weeegus_v0.4.55.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.55",
-  "release_tag": "v0.4.55",
-  "asset_name": "Weeegus_v0.4.55.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.56/Weeegus_v0.4.56.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.56",
+  "release_tag": "v0.4.56",
+  "asset_name": "Weeegus_v0.4.56.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-11",
-  "sha256": "26752ec3c29056e9e085abc765e41de7d9d5d10a127f5ffedeef83819ea697bb",
-  "crc32": "3b271c16",
-  "size": 158735294,
+  "sha256": "d451e3ca0c51cd85d43752ca400d089fc0e086b2c9c86410f4fa431c2c4664ba",
+  "crc32": "186b6788",
+  "size": 158738495,
   "changelog": [
-    "Vérification silencieuse des mises à jour dès le lancement, après initialisation du renderer et chargement des données.",
-    "Nouvelle vérification automatique toutes les 60 minutes tant que Weeegus reste ouvert.",
-    "Rattrapage automatique après veille, retour au premier plan ou rétablissement du réseau lorsqu’une heure s’est écoulée.",
-    "Déduplication des contrôles manuels et automatiques afin de ne jamais lancer plusieurs requêtes simultanées.",
-    "Une vérification automatique n’ouvre jamais l’écran Mise à jour : seule la notification Weeegus habituelle est affichée."
+    "Lorsqu’une mise à jour est détectée, Weeegus affiche une notification verte dédiée dans la topbar.",
+    "Le bouton À propos reçoit un halo vert animé et un indicateur lumineux tant que la nouvelle version reste disponible.",
+    "L’indicateur est activé par les contrôles automatiques et manuels, puis retiré dès que Weeegus est à jour.",
+    "L’animation respecte le mode Réduire les animations et la préférence système de mouvement réduit."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.55.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.55/Weeegus_v0.4.55.zip.sha256"
+  "sha256_asset_name": "Weeegus_v0.4.56.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.56/Weeegus_v0.4.56.zip.sha256"
 }
