@@ -1,15 +1,24 @@
 {
-  "version": "1.266",
-  "minimum_version": "1.174",
+  "app": "weeegus-electron",
+  "version": "0.4.52",
+  "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v1.266/Weeegus_v1.266.zip",
-  "release_date": "2026-07-04",
-  "sha256": "1a23eb34d545d07feca263fd5d732601bb01ff426c70a92ede0faaf5ee543a84",
-  "crc32": "e6166eaa",
-  "size": 41350956,
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.52/Weeegus_v0.4.52.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.52",
+  "release_tag": "v0.4.52",
+  "asset_name": "Weeegus_v0.4.52.zip",
+  "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
+  "release_date": "2026-07-11",
+  "sha256": "8710685b5121379340cc1322ebd67720900ce6b436f7f062177c79799f09f856",
+  "crc32": "135876d4",
+  "size": 157604757,
   "changelog": [
-    "Paramètres : correction du défilement à la molette de la zone droite, désormais fiable même au-dessus des cartes et widgets internes.",
-    "Paramètres : ajout du grab/drag vertical sur les zones passives de la partie droite pour naviguer comme dans le menu gauche.",
-    "Paramètres : amélioration du routage souris des panneaux scrollables pour éviter les pertes de focus entre widgets CTk imbriqués."
-  ]
+    "Le canal Electron utilise désormais son propre version.json publié avec chaque release GitHub, sans reprendre les versions 1.x de l’ancien launcher.",
+    "Le ZIP Windows suit automatiquement le nom Weeegus_v0.4.52.zip et la release GitHub v0.4.52.",
+    "La build Windows contient une copie de version.json à sa racine, en plus de la copie embarquée dans resources/app.",
+    "Le dossier de publication contient toujours côte à côte le ZIP Windows et le version.json final avec SHA-256, CRC32 et taille exacte.",
+    "La recherche de mise à jour privilégie le manifest de la dernière release GitHub et rejette les manifests qui ne ciblent pas explicitement Weeegus Electron.",
+    "V0.4.50 reste la base validée ; V0.4.52 poursuit exclusivement cette continuité."
+  ],
+  "package_type": "windows-packaged-zip"
 }
