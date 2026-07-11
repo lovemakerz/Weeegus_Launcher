@@ -1,21 +1,27 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.59",
+  "version": "0.4.64",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.59/Weeegus_v0.4.59.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.59",
-  "release_tag": "v0.4.59",
-  "asset_name": "Weeegus_v0.4.59.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.64/Weeegus_v0.4.64.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.64",
+  "release_tag": "v0.4.64",
+  "asset_name": "Weeegus_v0.4.64.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-11",
-  "sha256": "33002f17f60c137de11a724a2ee981ffafc49f718b8e83b52ed0078fd53d3703",
-  "crc32": "9c2b4662",
-  "size": 158739553,
+  "sha256": "080ee327314fb495c44ad13653c56c4b625b959e5363dafe1616dd945479446c",
+  "crc32": "4c2778a6",
+  "size": 158744538,
   "changelog": [
-    "Correction de l’alignement visuel lors du déplacement des catégories."
+    "V0.4.64 — Infobulle du menu ⋮ des cartes de jeu réactivée.",
+    "V0.4.64 — Historique des changements V0.4.60 à V0.4.63 intégré.",
+    "V0.4.63 — Covers animées pré-décodées et survol sans redémarrage du média.",
+    "V0.4.63 — Surfaces média stables et glow préparé hors survol.",
+    "V0.4.62 — Capture de fenêtre supprimée et traitement du survol allégé.",
+    "V0.4.61 — Cycle média allégé et infobulles générales des cartes supprimées.",
+    "V0.4.60 — Flash noir réduit par préchauffage et maintien du poster de cover."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.59.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.59/Weeegus_v0.4.59.zip.sha256"
+  "sha256_asset_name": "Weeegus_v0.4.64.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.64/Weeegus_v0.4.64.zip.sha256"
 }
