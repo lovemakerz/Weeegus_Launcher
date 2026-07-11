@@ -1,26 +1,25 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.53",
+  "version": "0.4.55",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.53/Weeegus_v0.4.53.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.53",
-  "release_tag": "v0.4.53",
-  "asset_name": "Weeegus_v0.4.53.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.55/Weeegus_v0.4.55.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.55",
+  "release_tag": "v0.4.55",
+  "asset_name": "Weeegus_v0.4.55.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-11",
-  "sha256": "4ade08a8acfba4e5549637cd6dcfcb6118e45aac83f2229dd7d0b18064cbabc1",
-  "crc32": "399a3ca1",
-  "size": 157614316,
+  "sha256": "26752ec3c29056e9e085abc765e41de7d9d5d10a127f5ffedeef83819ea697bb",
+  "crc32": "3b271c16",
+  "size": 158735294,
   "changelog": [
-    "Correction de l’extraction Windows : les entrées de dossier créées par PowerShell sont reconnues même lorsqu’elles ne portent pas le marqueur ZIP standard.",
-    "L’updater prépare les dossiers avant les fichiers et refuse les collisions fichier/dossier au lieu de laisser une extraction partielle.",
-    "Le dossier temporaire de travail utilise désormais un chemin plus court afin de réduire les risques liés aux chemins Windows.",
-    "Chaque release GitHub publie maintenant Weeegus_v0.4.53.zip.sha256 à côté du ZIP et de version.json.",
-    "Le SHA-256 utilisé automatiquement reste intégré à version.json ; le fichier .sha256 sert aussi à la vérification manuelle.",
-    "V0.4.50 reste la base validée ; V0.4.53 poursuit exclusivement cette continuité."
+    "Vérification silencieuse des mises à jour dès le lancement, après initialisation du renderer et chargement des données.",
+    "Nouvelle vérification automatique toutes les 60 minutes tant que Weeegus reste ouvert.",
+    "Rattrapage automatique après veille, retour au premier plan ou rétablissement du réseau lorsqu’une heure s’est écoulée.",
+    "Déduplication des contrôles manuels et automatiques afin de ne jamais lancer plusieurs requêtes simultanées.",
+    "Une vérification automatique n’ouvre jamais l’écran Mise à jour : seule la notification Weeegus habituelle est affichée."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.53.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.53/Weeegus_v0.4.53.zip.sha256"
+  "sha256_asset_name": "Weeegus_v0.4.55.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.55/Weeegus_v0.4.55.zip.sha256"
 }
