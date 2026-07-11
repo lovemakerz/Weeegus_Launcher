@@ -1,24 +1,23 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.56",
+  "version": "0.4.57",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.56/Weeegus_v0.4.56.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.56",
-  "release_tag": "v0.4.56",
-  "asset_name": "Weeegus_v0.4.56.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.57/Weeegus_v0.4.57.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.57",
+  "release_tag": "v0.4.57",
+  "asset_name": "Weeegus_v0.4.57.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-11",
-  "sha256": "d451e3ca0c51cd85d43752ca400d089fc0e086b2c9c86410f4fa431c2c4664ba",
-  "crc32": "186b6788",
-  "size": 158738495,
+  "sha256": "9f45c81ef03a1aa0b82756e591be3fb13bf8dc88e8e52da5538c41a2dcf931d0",
+  "crc32": "beef11de",
+  "size": 158738651,
   "changelog": [
-    "Lorsqu’une mise à jour est détectée, Weeegus affiche une notification verte dédiée dans la topbar.",
-    "Le bouton À propos reçoit un halo vert animé et un indicateur lumineux tant que la nouvelle version reste disponible.",
-    "L’indicateur est activé par les contrôles automatiques et manuels, puis retiré dès que Weeegus est à jour.",
-    "L’animation respecte le mode Réduire les animations et la préférence système de mouvement réduit."
+    "Le déplacement des catégories dans Paramètres > Catégories aligne maintenant correctement la carte flottante sous le curseur.",
+    "Le grab de réorganisation garde un point d’ancrage visuel cohérent pendant tout le drag, même sur les lignes compactes.",
+    "Le comportement premium du workspace stack et les contrôles automatiques de mise à jour sont conservés."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.56.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.56/Weeegus_v0.4.56.zip.sha256"
+  "sha256_asset_name": "Weeegus_v0.4.57.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.57/Weeegus_v0.4.57.zip.sha256"
 }
