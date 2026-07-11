@@ -1,3 +1,0 @@
-Paramètres : correction du défilement à la molette de la zone droite, désormais fiable même au-dessus des cartes et widgets internes.
-Paramètres : ajout du grab/drag vertical sur les zones passives de la partie droite pour naviguer comme dans le menu gauche.
-Paramètres : amélioration du routage souris des panneaux scrollables pour éviter les pertes de focus entre widgets CTk imbriqués.
