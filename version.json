@@ -1,18 +1,19 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.100",
+  "version": "0.4.101",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.100/Weeegus_v0.4.100.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.100",
-  "release_tag": "v0.4.100",
-  "asset_name": "Weeegus_v0.4.100.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.101/Weeegus_v0.4.101.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.101",
+  "release_tag": "v0.4.101",
+  "asset_name": "Weeegus_v0.4.101.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-12",
-  "sha256": "3b8277754765a0be832bd6f5401d8c4ed0ad1446aa3d77a0831e13da64ace45a",
-  "crc32": "a21d60b4",
-  "size": 161181247,
+  "sha256": "bd62704c2ac9ea39b63d2d16761430bda7eacfc6c04517d6b40fa7f7b6704285",
+  "crc32": "5dad4f80",
+  "size": 161182249,
   "changelog": [
+    "V0.4.101 — Restauration du style survol 18 Collector Rainbow Holo depuis la version validée, distinct du style 17 Simple Holo Card.",
     "V0.4.100 — Correction des covers animées pouvant rester noires pendant leur chargement.",
     "V0.4.100 — Ajout et enrichissement des styles de favoris, des fonds d’écran et des topbars.",
     "V0.4.100 — Amélioration de la barre de catégories Neon rail : sélection moins sombre, reflet discret et halo adapté à la couleur de la catégorie.",
@@ -99,6 +100,6 @@
     "V0.4.60 — Flash noir réduit par préchauffage et maintien du poster de cover."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.100.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.100/Weeegus_v0.4.100.zip.sha256"
+  "sha256_asset_name": "Weeegus_v0.4.101.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.101/Weeegus_v0.4.101.zip.sha256"
 }
