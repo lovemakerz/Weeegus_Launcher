@@ -1,18 +1,19 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.101",
+  "version": "0.4.102",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.101/Weeegus_v0.4.101.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.101",
-  "release_tag": "v0.4.101",
-  "asset_name": "Weeegus_v0.4.101.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.102/Weeegus_v0.4.102.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.102",
+  "release_tag": "v0.4.102",
+  "asset_name": "Weeegus_v0.4.102.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-12",
-  "sha256": "bd62704c2ac9ea39b63d2d16761430bda7eacfc6c04517d6b40fa7f7b6704285",
-  "crc32": "5dad4f80",
-  "size": 161182249,
+  "sha256": "f8c2b474557863da4e63a248481efdb406be441603bc0249c47ea30aa50b80db",
+  "crc32": "418bbb00",
+  "size": 161183837,
   "changelog": [
+    "V0.4.102 — Weeegus fonctionne désormais en instance unique : un second lancement restaure et place au premier plan la fenêtre déjà ouverte.",
     "V0.4.101 — Restauration du style survol 18 Collector Rainbow Holo depuis la version validée, distinct du style 17 Simple Holo Card.",
     "V0.4.100 — Correction des covers animées pouvant rester noires pendant leur chargement.",
     "V0.4.100 — Ajout et enrichissement des styles de favoris, des fonds d’écran et des topbars.",
@@ -100,6 +101,6 @@
     "V0.4.60 — Flash noir réduit par préchauffage et maintien du poster de cover."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.101.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.101/Weeegus_v0.4.101.zip.sha256"
+  "sha256_asset_name": "Weeegus_v0.4.102.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.102/Weeegus_v0.4.102.zip.sha256"
 }
