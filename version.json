@@ -1,18 +1,23 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.125",
+  "version": "0.4.130",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.125/Weeegus_v0.4.125.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.125",
-  "release_tag": "v0.4.125",
-  "asset_name": "Weeegus_v0.4.125.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.130/Weeegus_v0.4.130.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.130",
+  "release_tag": "v0.4.130",
+  "asset_name": "Weeegus_v0.4.130.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
-  "release_date": "2026-07-13",
-  "sha256": "80116dceefcf2d3e000eca76864eee00d7f238867d6a143f23663454c6ce5b5a",
-  "crc32": "c99c3b00",
-  "size": 161600812,
+  "release_date": "2026-07-14",
+  "sha256": "9543bd15cf474cbe955156c485a81dde149868c7978bfc3ea586d09452d78300",
+  "crc32": "7f47760e",
+  "size": 161525354,
   "changelog": [
+    "V0.4.130 — Ajout d’un lien Discord avec logo dans À propos, placé immédiatement à gauche de GitHub et accessible dans les quatorze langues.",
+    "V0.4.129 — Build Windows nettoyée : exclusion des fichiers .bat, scripts, outils, documentation et package-lock, avec contrôle bloquant après empaquetage et avant création du ZIP de publication.",
+    "V0.4.128 — Nouvelle section Paramètres > Tips : guide déplacé en tête, conseils retirés de l’écran principal, accueil simplifié à deux étapes et démarrage vierge sans catégories PC/Arcade.",
+    "V0.4.127 — Révision visuelle du guide : interface nette sans flou, écran de bienvenue avec lancement volontaire, suppression du bouton Terminé et détourage recalé en continu sur les éléments animés.",
+    "V0.4.126 — Tutoriel guidé du premier lancement : création d’une catégorie, sauvegarde, ajout d’un jeu, spotlight interactif, reprise portable, option Ignorer et relance depuis Paramètres > Général dans les quatorze langues.",
     "V0.4.125 — Ajout complet du chinois simplifié, du japonais et du coréen : 822 clés synchronisées dans quatorze langues, avec polices CJK, détection Windows, splash et updater externe localisés.",
     "V0.4.124 — Ajout complet du russe, de l’ukrainien et du tchèque : 819 clés synchronisées dans onze langues, avec détection Windows, splash et updater externe localisés.",
     "V0.4.123 — Ajout complet de l’italien, du polonais et du turc : 816 clés synchronisées dans huit langues, avec détection Windows, splash et updater externe localisés.",
@@ -123,6 +128,6 @@
     "V0.4.60 — Flash noir réduit par préchauffage et maintien du poster de cover."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.125.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.125/Weeegus_v0.4.125.zip.sha256"
+  "sha256_asset_name": "Weeegus_v0.4.130.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.130/Weeegus_v0.4.130.zip.sha256"
 }
