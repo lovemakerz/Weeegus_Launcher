@@ -1,18 +1,22 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.134",
+  "version": "0.4.139",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.134/Weeegus_v0.4.134.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.134",
-  "release_tag": "v0.4.134",
-  "asset_name": "Weeegus_v0.4.134.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.139/Weeegus_v0.4.139.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.139",
+  "release_tag": "v0.4.139",
+  "asset_name": "Weeegus_v0.4.139.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-14",
-  "sha256": "2277b8a0c642d06d96b071b23adaa6918be3d8818f7151b1018c395d61747243",
-  "crc32": "23966210",
-  "size": 161528712,
+  "sha256": "b451f676d99126ab81c5b17cdc68836cb029083844ccdf30e1cf4f68f0c47d0a",
+  "crc32": "2b4c95a0",
+  "size": 161405801,
   "changelog": [
+    "V0.4.139 — Publication GitHub Actions fiabilisée : contrôles compatibles CRLF/LF, fins de ligne stabilisées par .gitattributes et relance sûre d’un tag après un workflow interrompu.",
+    "V0.4.138 — Publication en un clic : PUBLIER_VERSION.bat contrôle le projet, enregistre automatiquement les sources dans un commit, pousse la branche privée, crée le tag et déclenche la publication GitHub + itch.io, sans commande Git manuelle.",
+    "V0.4.136 — Publication privée sécurisée : les sources restent dans un dépôt GitHub privé, tandis que la build Windows, le manifeste et le SHA-256 sont publiés automatiquement dans le dépôt public Weeegus_Launcher et sur itch.io.",
+    "V0.4.135 — Publication automatisée GitHub + itch.io : un tag de version construit la release Windows, publie le ZIP, le manifeste et son SHA-256 sur GitHub, puis pousse la même build sur itch.io avec Butler.",
     "V0.4.134 — Ajout d’un lien itch.io avec icône dans À propos, placé immédiatement à droite de GitHub et accessible dans les quatorze langues.",
     "V0.4.133 — Notifications prolongées : toutes les notifications Weeegus restent visibles deux secondes supplémentaires, y compris les durées personnalisées et les notices Survival.",
     "V0.4.132 — Tutoriel affiné : l’étape 3/6 précise que d’autres catégories pourront être créées plus tard, notification de fin raccourcie et nouvel ordre des sections Paramètres.",
@@ -132,6 +136,7 @@
     "V0.4.60 — Flash noir réduit par préchauffage et maintien du poster de cover."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.134.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.134/Weeegus_v0.4.134.zip.sha256"
+  "sha256_asset_name": "Weeegus_v0.4.139.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.139/Weeegus_v0.4.139.zip.sha256",
+  "notes": []
 }
