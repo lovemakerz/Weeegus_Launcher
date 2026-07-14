@@ -109,4 +109,4 @@ If you enjoy Weeegus Launcher and want to support its development, you can help 
 
 Every contribution helps improve the launcher, polish the interface and keep the project moving forward.
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'P5P613CZU5');kofiwidget2.draw();</script> 
+[☕ Support Weeegus sur Ko‑fi](https://ko-fi.com/weeegus)
