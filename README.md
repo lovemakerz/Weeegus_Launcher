@@ -109,4 +109,4 @@ If you enjoy Weeegus Launcher and want to support its development, you can help 
 
 Every contribution helps improve the launcher, polish the interface and keep the project moving forward.
 
-<a href="https://www.buymeacoffee.com/weeeguslaul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'P5P613CZU5');kofiwidget2.draw();</script> 
