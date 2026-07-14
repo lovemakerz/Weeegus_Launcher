@@ -1,3 +1,4 @@
+![Weeegus Launcher](Assets/image.png)
 # **Weeegus Launcher**
 
 ### **Organize, customize, and launch your entire game library from one place.**
@@ -27,7 +28,9 @@ Add your games, organize them into categories, mark your favorites, customize th
 * Optional **Weeegus Survival** mode
 * Portable data storage
 
----
+![Weeegus Launcher](Assets/WeeegusLauncher01.png)
+![Weeegus Launcher](Assets/WeeegusLauncher02.png)
+![Weeegus Launcher](Assets/WeeegusLauncher03.png)
 
 ## **🌍 Available in 14 Languages**
 
