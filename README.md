@@ -7,6 +7,9 @@
 
 Add your games, organize them into categories, mark your favorites, customize their appearance, and launch them directly from an interface designed for both small collections and large game libraries.
 
+## Download
+
+[Download Weeegus Launcher on itch.io](https://lovemakerz.itch.io/weeegus)
 ---
 
 ## **✨ Main Features**
