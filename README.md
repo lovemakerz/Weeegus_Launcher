@@ -30,7 +30,6 @@ Add your games, organize them into categories, mark your favorites, customize th
 
 ![Weeegus Launcher](Assets/WeeegusLauncher01.png)
 ![Weeegus Launcher](Assets/WeeegusLauncher02.png)
-![Weeegus Launcher](Assets/WeeegusLauncher03.png)
 
 ## **🌍 Available in 14 Languages**
 
@@ -71,7 +70,7 @@ Weeegus includes a wide range of customization options:
 
 Changes can be previewed instantly through the built-in **live preview mode**.
 
----
+![Weeegus Launcher](Assets/WeeegusLauncher03.png)
 
 ## **📦 Portable and Easy to Use**
 
