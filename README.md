@@ -109,4 +109,5 @@ If you enjoy Weeegus Launcher and want to support its development, you can help 
 
 Every contribution helps improve the launcher, polish the interface and keep the project moving forward.
 
-[☕ Support Weeegus sur Ko‑fi](https://ko-fi.com/weeegus)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P613CZU5)
+
