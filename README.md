@@ -1,107 +1,96 @@
-# Weeegus Launcher
+# **Weeegus Launcher**
 
-**Weeegus Launcher** is a modern, visual and lightweight game launcher designed to bring all your games together in one clean interface.
+### **Organize, customize, and launch your entire game library from one place.**
 
-Built with a custom Canvas UI engine, Weeegus focuses on smooth navigation, polished visuals, fast interaction and a launcher experience that feels premium without being heavy.
+**Weeegus Launcher** is a portable Windows game launcher designed to bring all your games together in a clean, modern, and highly customizable library.
 
-
----
-
-## Why Weeegus?
-
-Weeegus Launcher was created with one goal:
-to make browsing and launching your games feel simple, fluid and beautiful.
-
-Instead of relying on classic widget-based interfaces, Weeegus progressively moved to a custom Canvas rendering system. This allows smoother scrolling, better hover animations, cleaner visuals and fewer rendering artifacts.
-
-The result is a launcher that feels more like a dedicated gaming interface than a standard desktop app.
+Add your games, organize them into categories, mark your favorites, customize their appearance, and launch them directly from an interface designed for both small collections and large game libraries.
 
 ---
 
-## Main Features
+## **✨ Main Features**
 
-* Modern dark interface
-* Smooth Canvas-based game grid
-* Automatic artwork search
-* Covers, icons, logos, heroes and backgrounds support
-* Favorites system
-* Category filtering
-* Internal dark executable picker
-* Polished hover animations
-* Launch feedback with progress indicator
-* DPI-aware interface
-* Local data storage
-* Update-ready build system
-* Designed to remain compatible with public V1.174 data
-
----
-
-## Visual Experience
-
-Weeegus is built around a visual browsing experience:
-
-* game cards with smooth hover effects
-* animated dark gradient overlays
-* favorite heart feedback
-* launch progress bar
-* responsive scrolling
-* clean artwork presentation
-* no heavy sidebar clutter
-
-The launcher is designed to feel fast, focused and visually consistent.
+* **Customizable game library**
+* Add, edit, and remove games
+* Categories and favorites
+* Fast game search
+* Static and animated covers
+* Artwork search through **SteamGridDB**
+* Local artwork import
+* Add or remove Steam shortcuts
+* Multiple visual themes and interface styles
+* Custom colors, effects, and animations
+* Adjustable library zoom
+* Backup, restore, and reset tools
+* Built-in update system with file integrity verification
+* Live settings preview
+* Optional **Weeegus Survival** mode
+* Portable data storage
 
 ---
 
-## Roadmap
+## **🌍 Available in 14 Languages**
 
-Planned improvements include:
+Weeegus Launcher currently supports:
 
-* multilingual support
-* automatic language detection
-* cleaner artwork folder organization
-* stronger update diagnostics
-* more Canvas-based UI components
-* improved touch support
-* long-term modular UI architecture
+* 🇬🇧 English
+* 🇫🇷 French
+* 🇪🇸 Spanish
+* 🇩🇪 German
+* 🇧🇷 Brazilian Portuguese
+* 🇮🇹 Italian
+* 🇵🇱 Polish
+* 🇹🇷 Turkish
+* 🇷🇺 Russian
+* 🇺🇦 Ukrainian
+* 🇨🇿 Czech
+* 🇨🇳 Simplified Chinese
+* 🇯🇵 Japanese
+* 🇰🇷 Korean
 
-Planned language structure:
-
-```text
-languages/
-  fr.json
-  en.json
-  es.json
-  de.json
-  it.json
-  pt.json
-  jp.json
-  ru.json
-```
+The interface language can be detected automatically from Windows or selected manually in the settings.
 
 ---
 
-## Project Philosophy
+## **🎨 Make It Your Own**
 
-Weeegus Launcher is developed with a simple rule:
+Weeegus includes a wide range of customization options:
 
-> Diagnose → Understand → Architect → Code
+* Game card styles
+* Hover effects
+* Accent colors
+* Custom backgrounds
+* Glow effects
+* Interface animations
+* Cover size
+* Category display
+* Animated cover playback
 
-The project avoids piling up temporary fixes.
-When a problem appears, the goal is to understand it properly and build a cleaner architecture around it.
-
-This philosophy led to the creation of the Canvas UI Engine, which is now the foundation of the launcher.
-
----
-
-## Status
-
-Weeegus Launcher is currently in active development.
-
-The public tester version remains compatible with **V1.174**, while the current development reference is **V1.221**.
-
-Future updates will continue improving stability, visuals, language support and long-term maintainability.
+Changes can be previewed instantly through the built-in **live preview mode**.
 
 ---
+
+## **📦 Portable and Easy to Use**
+
+No complicated installation is required.
+
+1. Extract the downloaded archive.
+2. Launch **Weeegus Launcher**.
+3. Start building your game library.
+
+Your games are never moved, modified, or duplicated.
+
+Weeegus only stores:
+
+* Game launch paths
+* Application settings
+* Categories
+* Favorites
+* Custom artwork
+* Interface preferences
+
+All Weeegus data is stored locally, making the launcher easy to move, back up, and restore.
+
 
 ## Support the Project
 
