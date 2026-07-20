@@ -31,6 +31,9 @@ Add your games, organize them into categories, mark your favorites, customize th
 * Optional **Weeegus Survival** mode
 * Portable data storage
 
+![Weeegus Launcher](Assets/launchers_mini.png)
+![Weeegus Launcher](Assets/launchers_list.png)
+![Weeegus Launcher](Assets/home.png)
 ![Weeegus Launcher](Assets/WeeegusLauncher01.png)
 ![Weeegus Launcher](Assets/WeeegusLauncher02.png)
 
@@ -71,9 +74,12 @@ Weeegus includes a wide range of customization options:
 * Category display
 * Animated cover playback
 
+
+
 Changes can be previewed instantly through the built-in **live preview mode**.
 
 ![Weeegus Launcher](Assets/WeeegusLauncher03.png)
+![Weeegus Launcher](Assets/gamesbig.jpg)
 
 ## **📦 Portable and Easy to Use**
 
