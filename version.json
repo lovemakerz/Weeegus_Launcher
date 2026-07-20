@@ -1,18 +1,19 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.164",
+  "version": "0.4.165",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.164/Weeegus_v0.4.164.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.164",
-  "release_tag": "v0.4.164",
-  "asset_name": "Weeegus_v0.4.164.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.165/Weeegus_v0.4.165.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.165",
+  "release_tag": "v0.4.165",
+  "asset_name": "Weeegus_v0.4.165.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-20",
-  "sha256": "a0099ac12430954e40c19a76920c0486d3922b4423a5810619f23bddb5581b02",
-  "crc32": "663fa7b7",
-  "size": 203648388,
+  "sha256": "8bdbd6a84d77397d3635f1b1bfc05f18444445376ff08486db4891f4f8dd6dea",
+  "crc32": "88e9d897",
+  "size": 203645752,
   "changelog": [
+    "V0.4.165 — Mise à jour V0.4.153 vers ASAR réparée : le ZIP public reste désormais strictement ASAR et ne contient plus le bridge resources/app qui le rendait ambigu pour l’updater déjà installé. La chaîne de release refuse explicitement tout mélange legacy/ASAR, et l’updater 1.0.5 conserve la même règle de sécurité tout en préservant le rollback et les données portables.",
     "V0.4.164 — Smoke packagé indépendant de la langue : le contrôle des profils de covers compare désormais les valeurs internes et les libellés au catalogue i18n actif, au lieu d’exiger les mots français Performance et Équilibré sur un runner GitHub anglais. Le smoke Chromium reproduit par défaut la locale en-US du runner packagé et reste configurable pour les audits multilingues.",
     "V0.4.164 — Smoke Electron piloté par un vrai pointeur : le scénario packagé ne simule plus la sortie de survol avec un PointerEvent synthétique incapable de modifier l’état CSS :hover. Dans l’environnement smoke isolé uniquement, le Main déplace réellement la souris Chromium via webContents.sendInputEvent, d’abord hors de la grille, puis sur la carte et enfin hors de la carte. Le détachement V3 est donc vérifié dans les mêmes conditions qu’un utilisateur réel, sans API exposée en production.",
     "V0.4.162 — Smoke packagé rendu déterministe : les deux derniers seuils chronométriques absolus (retour de catégorie < 500 ms et premier survol V3 < 400 ms) sont remplacés par des états observables du DOM et du média. Le premier survol doit réellement attacher sa source, activer le mode, décoder une frame et remplacer le poster sans flash noir, quelle que soit la charge instantanée du runner.",
@@ -165,7 +166,7 @@
     "V0.4.60 — Flash noir réduit par préchauffage et maintien du poster de cover."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.164.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.164/Weeegus_v0.4.164.zip.sha256",
+  "sha256_asset_name": "Weeegus_v0.4.165.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.165/Weeegus_v0.4.165.zip.sha256",
   "notes": []
 }
