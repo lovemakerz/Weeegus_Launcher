@@ -1,18 +1,19 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.153",
+  "version": "0.4.154",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.153/Weeegus_v0.4.153.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.153",
-  "release_tag": "v0.4.153",
-  "asset_name": "Weeegus_v0.4.153.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.154/Weeegus_v0.4.154.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.154",
+  "release_tag": "v0.4.154",
+  "asset_name": "Weeegus_v0.4.154.zip",
   "manifest_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/latest/download/version.json",
   "release_date": "2026-07-20",
-  "sha256": "0075b3c05ff2e2185dbdbb40c17b32b2a315f5e811357e0d1670000c51bcee0c",
-  "crc32": "100c041d",
-  "size": 203621475,
+  "sha256": "4219af235f60721fccd6af669785e153c57a0c5daa935f0284c6e59110806ef0",
+  "crc32": "37a408d1",
+  "size": 203626490,
   "changelog": [
+    "V0.4.154 — Mise à jour et restauration des bibliothèques existantes fiabilisées : WebP statiques distingués des animations, anciens chemins d’artworks rebasés depuis le manifeste de sauvegarde, caches V3 manquants remis en préparation, anciens médias animés reconvertis à charge bornée, scan launcher résilient et updater bloquant les runtimes incomplets.",
     "V0.4.153 — Correctif de performance du rendu : GIF Collector chargé uniquement au survol, couches GPU bornées, cartes réutilisées sans redémarrer leurs médias, recherche temporisée et cache local versionné.",
     "V0.4.153 — Nouvelle branche de développement ouverte après la publication de la V0.4.152 ; version, manifeste et chaîne de release réalignés sans changement fonctionnel ni changement de schéma.",
     "V0.4.152 — Version publiée : launchers locaux consolidés, scraping média et titres corrigés, favoris Home synchronisés, compteurs de recherche par catégorie, suppression de la demande d’épinglage et modes de covers animées respectés dans Artwork.",
@@ -150,7 +151,7 @@
     "V0.4.60 — Flash noir réduit par préchauffage et maintien du poster de cover."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.153.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.153/Weeegus_v0.4.153.zip.sha256",
+  "sha256_asset_name": "Weeegus_v0.4.154.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.154/Weeegus_v0.4.154.zip.sha256",
   "notes": []
 }
