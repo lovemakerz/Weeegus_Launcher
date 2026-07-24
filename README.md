@@ -30,7 +30,10 @@ Add your games, organize them into categories, mark your favorites, customize th
 * Live settings preview
 * Optional **Weeegus Survival** mode
 * Portable data storage
+* NEW ! Lots of Web radio with all style
 
+![Weeegus Launcher](Assets/weeegus_audio02.png)
+![Weeegus Launcher](Assets/weeegus_audio01.png)
 ![Weeegus Launcher](Assets/launchers_mini.png)
 ![Weeegus Launcher](Assets/launchers_list.png)
 ![Weeegus Launcher](Assets/home.png)
