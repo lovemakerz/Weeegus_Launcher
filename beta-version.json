@@ -1,18 +1,21 @@
 {
   "app": "weeegus-electron",
-  "version": "0.4.255",
+  "version": "0.4.257",
   "minimum_version": "0.0.0",
   "mandatory": false,
-  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.255/Weeegus_v0.4.255.zip",
-  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.255",
-  "release_tag": "v0.4.255",
-  "asset_name": "Weeegus_v0.4.255.zip",
+  "download_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.257/Weeegus_v0.4.257.zip",
+  "release_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/tag/v0.4.257",
+  "release_tag": "v0.4.257",
+  "asset_name": "Weeegus_v0.4.257.zip",
   "manifest_url": "https://raw.githubusercontent.com/lovemakerz/Weeegus_Launcher/main/beta-version.json",
   "release_date": "2026-07-24",
-  "sha256": "482ceed4b75cec3029587e4869e946bdfca04ff55d4dab6508ef22ca0a29754a",
-  "crc32": "3fd55698",
-  "size": 209721431,
+  "sha256": "7903369d58946787e693e9003303ab96ab9a87e1648b52b6ca5aabbaeb7b6df4",
+  "crc32": "a888d761",
+  "size": 209648072,
   "changelog": [
+    "V0.4.257 — Applique une remise à zéro unique de toute la personnalisation vers le thème officiel Weeegus Default.",
+    "Les anciens thèmes, couleurs, styles, effets, réglages visuels de Weeegus Music, options d’artworks, accessibilité et échelles 112 % / 85 % sont remplacés au premier démarrage de cette version.",
+    "La langue, le canal Stable/Beta, les réglages généraux, les sources, la bibliothèque, les médias, les favoris, les sauvegardes, la clé SteamGridDB et les presets personnels restent conservés ; l’utilisateur peut ensuite personnaliser Weeegus normalement.",
     "V0.4.255 — Corrige le faux échec du smoke Recherche provoqué par une faute dans l’identifiant de la carte de test.",
     "Le sélecteur packagé et la fixture Chromium utilisent désormais tous deux weeegus-smoke-animated, avec les trois « e » de Weeegus.",
     "Un contrat interdit le retour de l’ancienne variante weegus-smoke-animated ; aucun comportement du renderer ni de la Recherche V0.4.236 n’est modifié.",
@@ -367,12 +370,12 @@
     "V0.4.60 — Flash noir réduit par préchauffage et maintien du poster de cover."
   ],
   "package_type": "windows-packaged-zip",
-  "sha256_asset_name": "Weeegus_v0.4.255.zip.sha256",
-  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.255/Weeegus_v0.4.255.zip.sha256",
+  "sha256_asset_name": "Weeegus_v0.4.257.zip.sha256",
+  "sha256_url": "https://github.com/lovemakerz/Weeegus_Launcher/releases/download/v0.4.257/Weeegus_v0.4.257.zip.sha256",
   "notes": [
-    "V0.4.255 — Corrige le faux échec du smoke Recherche provoqué par une faute dans l’identifiant de la carte de test.",
-    "Le sélecteur packagé et la fixture Chromium utilisent désormais tous deux weeegus-smoke-animated, avec les trois « e » de Weeegus.",
-    "Un contrat interdit le retour de l’ancienne variante weegus-smoke-animated ; aucun comportement du renderer ni de la Recherche V0.4.236 n’est modifié."
+    "V0.4.257 — Weeegus Default remplace une seule fois tous les anciens réglages de personnalisation.",
+    "Les échelles officielles 112 % pour l’application et 85 % pour les cartes sont également restaurées.",
+    "Après cette remise à zéro unique, chaque nouveau choix de l’utilisateur reste enregistré normalement."
   ],
   "channel": "beta",
   "prerelease": true
