@@ -14,6 +14,7 @@ Add your games, organize them into categories, mark your favorites, customize th
 
 ## **✨ Main Features**
 
+* **NEW : Steam Controller Support without add game on Steam ! **
 * **Customizable game library**
 * Add, edit, and remove games
 * Categories and favorites
