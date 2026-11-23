@@ -3,7 +3,7 @@
 
 ### **Organize, customize, and launch your entire game library from one place.**
 
-**Weeegus Launcher** is a portable Windows game launcher designed to bring all your games together in a clean, modern, and highly customizable library.
+**Weeegus Launcher** is a Windows game launcher designed to bring all your games together in a clean, modern, and highly customizable library.
 
 Add your games, organize them into categories, mark your favorites, customize their appearance, and launch them directly from an interface designed for both small collections and large game libraries.
 
