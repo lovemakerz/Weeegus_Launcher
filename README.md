@@ -30,7 +30,6 @@ Add your games, organize them into categories, mark your favorites, customize th
 * Built-in update system with file integrity verification
 * Live settings preview
 * Optional **Weeegus Survival** mode
-* Portable data storage
 * NEW ! Lots of Web radio with all style
 
 ![Weeegus Launcher](Assets/weeegus_audio02.png)
@@ -84,27 +83,6 @@ Changes can be previewed instantly through the built-in **live preview mode**.
 
 ![Weeegus Launcher](Assets/WeeegusLauncher03.png)
 ![Weeegus Launcher](Assets/gamesbig.jpg)
-
-## **📦 Portable and Easy to Use**
-
-No complicated installation is required.
-
-1. Extract the downloaded archive.
-2. Launch **Weeegus Launcher**.
-3. Start building your game library.
-
-Your games are never moved, modified, or duplicated.
-
-Weeegus only stores:
-
-* Game launch paths
-* Application settings
-* Categories
-* Favorites
-* Custom artwork
-* Interface preferences
-
-All Weeegus data is stored locally, making the launcher easy to move, back up, and restore.
 
 
 ## Support the Project
